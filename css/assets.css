@@ -1,0 +1,30 @@
+a {
+  color:#147f6B;
+}
+
+body {
+  font-size:12px;
+}
+
+.page-header{
+    margin-bottom:8px;
+}
+
+.pull-right {
+   font-size:11px;
+   color:#147f6B;
+ }
+
+h3 {
+  font-size:20px;
+  color:#147f6B;
+}
+
+h4 {
+  font-size:16px;
+  color:#147f6B;
+}
+
+h5 {
+  font-size:12px;
+}

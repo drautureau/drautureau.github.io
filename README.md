@@ -1,1 +1,1 @@
-# drautureau.github.io
+My resume built with [Bootstrap](http://getbootstrap.com/)
